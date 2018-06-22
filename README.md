@@ -1,0 +1,2 @@
+# bashisms
+Personnal bash library
