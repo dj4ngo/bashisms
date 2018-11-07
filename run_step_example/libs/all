@@ -1,0 +1,7 @@
+#!/bin/bash
+
+for file in libs/*.sh; do
+	source $file
+done
+
+
